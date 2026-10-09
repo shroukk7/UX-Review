@@ -1073,10 +1073,12 @@ h1 span {
   padding: 80px 30px;
 }
 
-.footer-title {
+
+.footer-logo-title{
   display: flex;
-  gap: 15px;
+  gap: 20px;
   align-items: center;
+  text-align: start;
 }
 .footer-title h2 {
   color: white;
@@ -1198,7 +1200,6 @@ h1 span {
 
   .footer-title {
     width: 40%;
-    flex-wrap: wrap;
   }
 
   .footer-categories {
